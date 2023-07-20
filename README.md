@@ -1,2 +1,2 @@
-# arp
-This is a цуи project to develop simple and easy-to-use car repair CRM system.
+# arp (Automobile repair shop CRM)
+This is a project to develop a simple and easy-to-use car repair CRM system.
